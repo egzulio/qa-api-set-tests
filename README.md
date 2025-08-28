@@ -1,8 +1,6 @@
 ## Overview
 
-This is a base setup for Playwright with TypeScript, proudly presented by the [<pwts.dev>](https://pwts.dev/) team, designed to help you kickstart your REST API testing journey with best practices and ease of use. With this setup, you'll have a solid foundation to create fast, reliable, and maintainable automated tests, empowering you to deliver high-quality software efficiently.
-
-It includes all necessary configurations and dependencies to get started with automated testing using Playwright and TypeScript, ensuring a seamless setup process and enabling you to focus on writing efficient and robust test cases right from the start.
+A set of tests demonstrating the use of Playwright with TS in API testing. The test data should be run using [json server npm package][https://www.npmjs.com/package/json-server]. A project using datafactory (creating a new instructor using the faker package), fixtures (which overwrites the test with new possibilities), validators (with irregular expressions for data validation), and requests (with CRUD extracted into separate files).
 
 ## Prerequisites
 
@@ -120,4 +118,3 @@ This project is licensed under the ISC License.
 Did you know? Debugging is like being the detective in a crime movie where you are also the murderer 🕵️‍♂️
 
 Happy hacking!
-
