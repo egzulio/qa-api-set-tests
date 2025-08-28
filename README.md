@@ -1,4 +1,4 @@
-# pwts-api-base-setup
+## Overview
 
 This is a base setup for Playwright with TypeScript, proudly presented by the [<pwts.dev>](https://pwts.dev/) team, designed to help you kickstart your REST API testing journey with best practices and ease of use. With this setup, you'll have a solid foundation to create fast, reliable, and maintainable automated tests, empowering you to deliver high-quality software efficiently.
 
@@ -121,4 +121,3 @@ Did you know? Debugging is like being the detective in a crime movie where you a
 
 Happy hacking!
 
-[<pwts.dev>](https://pwts.dev/) team [@bkita](https://github.com/bkita) and [@mkusz](https://github.com/mkusz).
